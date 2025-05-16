@@ -1,0 +1,119 @@
+#body{
+    min-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+
+}#suchen{
+    color: white ;
+    background-color: rgb(66, 131, 237);
+    border-radius: 18px;
+    border:none;  font-size: 20px;
+}#amel{
+      color: white ;
+    background-color: rgb(66, 131, 237);
+    border-radius: 20px;
+    border:none; 
+    height: 2pc;
+}
+header.navbar{
+    color: black;
+}
+#search{
+    background-image: url(VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 220px;
+    padding-top: 250px;color: aliceblue;
+    padding-bottom: 200px;
+}
+.write{
+    font-size: pc;
+    background-color: rgb(31, 20, 74);
+    color: aliceblue;
+    padding:2%;
+        border-radius: 15px;
+    width:100%;
+    margin:auto;
+    margin-top: 2%;
+    justify-content:space-between;
+    display: flex;
+    height:2pc
+
+
+
+}
+#src{       width: 75%;
+margin: auto;
+
+    background-color: aliceblue; 
+    font-size: 30px;
+  
+    border-radius: 15px;
+    padding:1%;
+    position: relative;
+ 
+   
+
+}.search{ margin-bottom: 10px;
+font-size: 50%;
+width: 28%;
+
+
+}
+#search1{ margin: auto;
+width: 75%;
+    font-size:40px;
+
+}#src.fixed{
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
+  }
+  .accom{
+display: flex;justify-content: center;  margin-right: 10px;
+    margin: auto;
+
+}
+.accom img{
+    width: 200px;
+    height: 200px;margin-right: 10px;
+    border-radius: 10px;
+    
+}
+ .weektrips{
+display: flex;justify-content: center;  margin-right: 10px;
+-ms-overflow-style: none;
+
+}
+.weedtrip::-webkit-scrollbar{
+    display: none;
+    margin: auto;overflow: scroll;
+}
+.weektrips img{
+    width: 200px;
+    height: 150px;margin-right: 10px;
+    border-radius: 10px;
+    
+}
+
+.rentals img{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    
+}.rentals{
+display: flex;justify-content: center; 
+-ms-overflow-style: none;
+
+}
+.linkss:link{
+    color: black;
+    text-decoration: none;
+justify-content: space-around;
+padding-left: 34px; width: 18%;
+font-size: 20px;
+}.body{width: 75%;margin: auto;}
